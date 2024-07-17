@@ -306,7 +306,7 @@ span {
     .hero-section {
         position: relative;
         width: 100%;
-        height: 80vh;
+        height: 60vh;
         background: url('Assets/Hero-img.jpg') no-repeat center center;
         background-size: cover;
         display: flex;
